@@ -62,3 +62,24 @@ E:\Development Projects\.Net Projects\CpuSchedulingWinForms\CpuSchedulingWinForm
 E:\Development Projects\.Net Projects\CpuSchedulingWinForms\CpuSchedulingWinForms\obj\Debug\CpuSchedulingWinForms.csproj.CopyComplete
 E:\Development Projects\.Net Projects\CpuSchedulingWinForms\CpuSchedulingWinForms\obj\Debug\CpuSchedulingWinForms.exe
 E:\Development Projects\.Net Projects\CpuSchedulingWinForms\CpuSchedulingWinForms\obj\Debug\CpuSchedulingWinForms.pdb
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\CpuSchedulingWinForms.exe.config
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\CpuSchedulingWinForms.exe
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\CpuSchedulingWinForms.pdb
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\AForge.dll
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\zxing.dll
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\zxing.presentation.dll
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\AForge.xml
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\zxing.pdb
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\zxing.xml
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\zxing.presentation.pdb
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\bin\Debug\zxing.presentation.xml
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\obj\Debug\CpuSchedulingWinForms.csproj.AssemblyReference.cache
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\obj\Debug\CpuSchedulingWinForms.CpuScheduler.resources
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\obj\Debug\CpuSchedulingWinForms.Form1.resources
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\obj\Debug\CpuSchedulingWinForms.Properties.Resources.resources
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\obj\Debug\CpuSchedulingWinForms.csproj.GenerateResource.cache
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\obj\Debug\CpuSchedulingWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\obj\Debug\CpuSched.BA2933A9.Up2Date
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\obj\Debug\CpuSchedulingWinForms.exe
+C:\Users\Jade\Documents\School\2025 Spring\operating systems\CPU Simulator\CpuSchedulingWinForms\obj\Debug\CpuSchedulingWinForms.pdb

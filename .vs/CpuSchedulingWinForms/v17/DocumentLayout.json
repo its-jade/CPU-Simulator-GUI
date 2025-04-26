@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Jade\\Documents\\School\\2025 Spring\\operating systems\\CPU Simulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|c:\\users\\jade\\documents\\school\\2025 spring\\operating systems\\cpu simulator\\cpuschedulingwinforms\\algorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|solutionrelative:cpuschedulingwinforms\\algorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|C:\\Users\\Jade\\Documents\\School\\2025 Spring\\operating systems\\CPU Simulator\\cpuschedulingwinforms\\cpuscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|solutionrelative:cpuschedulingwinforms\\cpuscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|c:\\users\\jade\\documents\\school\\2025 spring\\operating systems\\cpu simulator\\cpuschedulingwinforms\\algorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|solutionrelative:cpuschedulingwinforms\\algorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|C:\\Users\\Jade\\Documents\\School\\2025 Spring\\operating systems\\CPU Simulator\\cpuschedulingwinforms\\cpuscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,33 +36,35 @@
               "RelativeDocumentMoniker": "CpuSchedulingWinForms\\CpuScheduler.cs",
               "ToolTip": "C:\\Users\\Jade\\Documents\\School\\2025 Spring\\operating systems\\CPU Simulator\\CpuSchedulingWinForms\\CpuScheduler.cs",
               "RelativeToolTip": "CpuSchedulingWinForms\\CpuScheduler.cs",
-              "ViewState": "AgIAAO8AAAAAAAAAAAAuwC8AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAAwKUBAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T18:25:52.775Z"
+              "WhenOpened": "2025-04-26T18:25:52.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Algorithms.cs",
               "DocumentMoniker": "C:\\Users\\Jade\\Documents\\School\\2025 Spring\\operating systems\\CPU Simulator\\CpuSchedulingWinForms\\Algorithms.cs",
               "RelativeDocumentMoniker": "CpuSchedulingWinForms\\Algorithms.cs",
               "ToolTip": "C:\\Users\\Jade\\Documents\\School\\2025 Spring\\operating systems\\CPU Simulator\\CpuSchedulingWinForms\\Algorithms.cs",
               "RelativeToolTip": "CpuSchedulingWinForms\\Algorithms.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAANoBAAAAAAAAAAAmwCICAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T18:25:52.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CpuScheduler.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Jade\\Documents\\School\\2025 Spring\\operating systems\\CPU Simulator\\CpuSchedulingWinForms\\CpuScheduler.cs",
               "RelativeDocumentMoniker": "CpuSchedulingWinForms\\CpuScheduler.cs",
               "ToolTip": "C:\\Users\\Jade\\Documents\\School\\2025 Spring\\operating systems\\CPU Simulator\\CpuSchedulingWinForms\\CpuScheduler.cs [Design]",
               "RelativeToolTip": "CpuSchedulingWinForms\\CpuScheduler.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T18:25:52.839Z"
+              "WhenOpened": "2025-04-26T18:25:52.839Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
